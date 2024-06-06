@@ -1,0 +1,6 @@
+streamlit
+langchain-openai
+langchain-core
+langchain-prompts
+langchain-chroma
+openai
