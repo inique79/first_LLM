@@ -4,4 +4,3 @@ langchain-core
 langchain-chroma
 openai
 langchain
-sqlite3
